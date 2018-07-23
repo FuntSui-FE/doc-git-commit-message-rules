@@ -13,14 +13,12 @@ feat:新增自开奖页面
 fix:活动页面设置渠道后,自动添加渠道文字类型判断错误
 ```
 
-## 完整的commit message需包含三个部分：Header,Body,Footer;Header必填，其他可以省略！
+## 完整的commit message需包含三个部分：Header,Body;Header必填，其他可以省略！
 
 ```
 <Header>
 
 <Body>
-
-<Footer>
 ```
 
 ## Header
@@ -44,6 +42,3 @@ Header包含两个部分：type,subject
 body是对本次commit的详细描述。
 
 用`- `和换行隔开每一项
-
-## Footer
-基本不需要吧。
