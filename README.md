@@ -1,18 +1,19 @@
 # :memo:git代码提交message规范
   
-## 先来一个完整的例子
+## 先来几个完整的例子
 ```
 feat:新增自开奖页面
 
 新增自开奖页面，但是产品还有需求遗漏，待完善
 - 新增内容1
 - 新增内容2
-
-fix:活动页面设置渠道后,自动添加渠道文字类型判断错误
-
 ```
 
-## 完整的commit message需包含三个部分：Header,Body,Footer
+```
+fix:活动页面设置渠道后,自动添加渠道文字类型判断错误
+```
+
+## 完整的commit message需包含三个部分：Header,Body,Footer;Header必填，其他可以省略！
 
 ```
 <Header>
